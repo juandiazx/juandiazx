@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lordkibou
-- 👀 I’m interested in coding, self development, entrepreneurship and investing
+- 👋 Hi, I’m Juan Diaz
+- 👀 I’m interested in building, crypto, self development, entrepreneurship and investing
 - 🌱 I’m currently learning Full Stack Web Development, Algorithms, Systems Design and Software Development
-- 💞️ I’m looking to collaborate on any project where I can help and build
 - 📫 How to reach me: @contactjuandiaz@gmail.com
 
 <!---
