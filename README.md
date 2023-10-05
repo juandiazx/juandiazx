@@ -1,6 +1,6 @@
-`-I like crafting things :)
--Looking for Summer Internships!
--What I am learning now: Android, Cloud Computing and Data Structures & Algorithms.`
+`-I like crafting things :)`
+`-Looking for Summer Internships!`
+`-What I am learning now: Android, Cloud Computing and Data Structures & Algorithms.`
 
 <!---
 lordkibou/lordkibou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
