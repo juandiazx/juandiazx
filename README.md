@@ -1,5 +1,7 @@
 `-I like crafting things :)`
+
 `-Looking for Summer Internships!`
+
 `-What I am learning now: Android, Cloud Computing and Data Structures & Algorithms.`
 
 <!---
