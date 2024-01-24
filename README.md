@@ -11,6 +11,7 @@
 - React
 - TypeScript/JavaScript
 - MongoDB
-- MySQL
-- C++
-- Google Cloud Platform
+- SQL
+- Data Structures & Algorithms
+- System Design
+
