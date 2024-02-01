@@ -10,7 +10,7 @@
 - Python
 - React
 - TypeScript/JavaScript
-- MongoDB
+- Node
 - SQL
 - Data Structures & Algorithms
 - System Design
