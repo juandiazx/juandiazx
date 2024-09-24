@@ -3,4 +3,4 @@ I'm a Software Engineer with a passion for building user-centric applications. I
 - Current: Software Engineer at Engapplic
 - Studying: Interactive Technologies at Universidad Politecnica de Valencia
 - Skilled in: Software Development, Project Management and Problem Solving
-- Love using: Golang, Python, Typescript, React, TailwindCSS, Java
+- Love using: Golang, Python, Typescript, Java, React, TailwindCSS
