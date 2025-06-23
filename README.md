@@ -1,5 +1,5 @@
 ### Hi, I'm Juan Diaz 👋
-Software Engineer passionate about backend, distributed systems and clean code
+Software Engineer passionate about useful products, distributed systems and problem solving.
 - Interactive Technologies @ UPV
 - Love reading and spending time in nature
 
